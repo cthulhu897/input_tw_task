@@ -13,10 +13,10 @@ import json, sys, getopt
         4   hours:minutes to load
 '''
 # Static and default variables
-install = 'https://mcsec.teamwork.com'# TeamWork installation URL
-key = 'twp_l2jVOVweA9dLKpiZ386TGjCOumID' 		# API Key can be obtained at People > Edit my profile > API & Mobile
-person_id = "157981" 		# fdiaz default person id
-task_id = "16295911" 		# offtopic  default task id
+install = 'https://endpoint.teamwork.com'# TeamWork installation URL
+key = '' 		# API Key can be obtained at People > Edit my profile > API & Mobile
+person_id = "" 		# default person id
+task_id = "" 		# offtopic  default task id
 day_time="9:00" 			# 9:00 am starts task input time
 time_hours = "8" 			# 8 hours default input time
 time_minutes = "0" 			# 8 hours default input time
